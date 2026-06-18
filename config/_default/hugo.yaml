@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Abbas Hamidavi | AI Researcher'
 # Website URL
-baseURL: 'https://avabbas.github.io/'
+baseURL: 'https://avabbas.github.io/academic-cv/'
 
 ############################
 ## LANGUAGE
