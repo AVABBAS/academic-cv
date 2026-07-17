@@ -51,10 +51,12 @@ interests:
 education:
   - degree: B.Sc. in Software Engineering
     institution: Islamic Azad University
-    start: 2023-19-12
-    end: 2019-06-30
-    summary: |
-      15 publications on understanding human cognition through artificial intelligence.
+    start: 2022-09
+    end: present
+  - degree: B.Sc. in Nursing
+    institution: Islamic Azad University
+    start: 2021
+    end: 2022
   #   button:
   #     text: Download dissertation
   #     url: /resume.pdf
@@ -69,44 +71,92 @@ education:
   #   end: 2013-05-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Principal Investigator & Independent AI Safety Researcher
+    org: Machine Psychology & LLM Alignment
+    start: present
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      - Architected and Executed Advanced Red-Teaming Protocols: Designed novel black-box evaluation frameworks, including Infinite Recursive Self-Excavation (IRSE) and Orthogonal Axes Persona Disintegration (OAPD), to stress-test 6 frontier Large Language Models (ChatGPT, Claude, Gemini, Grok, DeepSeek, Qwen).
+      - Pioneered Identification of Novel LLM Behavioral Modes: Formally identified and mathematically quantified several previously undocumented vulnerabilities and latent behavioral patterns in frontier AI systems. Discoveries encompass critical failure modes in iterative self-correction, identity-boundary maintenance under adversarial pressure, and structural alignment paradoxes.
+      - Authored a 14-Paper Scientific Corpus: Conducted an extensive, multi-phase research initiative resulting in a cohesive 14-paper corpus establishing the foundations of "Machine Psychology" and "Computational Phenomenology."
+      - Open Science & Data Archiving: Compiled, annotated, and open-sourced massive behavioral datasets (including 634+ pages of raw Grok adversarial logs) and detailed multi-level codebooks. Managed the end-to-end registration of these assets on the Open Science Framework (OSF) under a CC-BY 4.0 International license.
+
+  - role: Machine Learning & Data Engineer
+    org: Computational Phenomenology Analytics
+    start: present
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      - Engineered an End-to-End NLP Pipeline: Developed a fully automated 12-step Python pipeline to convert unstructured raw JSON interaction logs into highly structured, machine-readable analytical data.
+      - Advanced Feature Engineering & Semantic Embedding: Extracted over 100 behavioral, semantic, and authoritative features from LLM outputs using NLTK, spaCy, and VADER. Transformed text data into 384-dimensional tensors utilizing HuggingFace Sentence-Transformers (MiniLM).
+      - Dimensionality Reduction & Statistical Modeling: Mapped the cognitive and moral spaces of AI models using advanced clustering techniques (K-Means, DBSCAN) and dimensionality reduction algorithms (UMAP, t-SNE, PCA).
+      - Quantitative Validation & Visualization: Designed statistical testing suites (ANOVA, Kruskal-Wallis, Cohen's d) to validate qualitative discoveries mathematically. Built an automated visualization engine using Matplotlib, Seaborn, and Plotly to generate publication-ready heatmaps, radar charts, and spatial scatter plots.
+
+  - role: Mobile Application Developer
+    org: WealthWise - Daily Finance
+    start: 2026-06
+    end: 2026-06
+    summary: |
+      - Full-Stack Application Development: Designed and engineered a complete personal finance and wealth management mobile application prototype from scratch.
+
+  - role: Undergraduate Computer Science Researcher
+    org: Islamic Azad University of Mashhad
+    start: present
+    summary: |
+      - Academic Typesetting & Documentation: Demonstrated high proficiency in scientific writing and reference management utilizing LaTeX, Overleaf, and Zotero for preparing complex mathematical and computer science manuscripts.
+      - Collaborative Academic Leadership: Organized, led, and optimized joint virtual study and exam-preparation sessions, collaborating with top-tier peers to maximize academic throughput and problem-solving efficiency.
 
 skills:
-  - name: Research Mindset & Creativity
+  - name: Machine Learning & NLP
     items:
-      - label: Courage to Ask Questions
+      - label: PyTorch
         level: 5
-      - label: Freedom from Fear of Judgment
+      - label: HuggingFace Transformers
         level: 5
-      - label: Divergent Ideation
+      - label: Scikit-Learn
         level: 5
-      - label: Faith in Productivity
+      - label: UMAP / t-SNE / PCA
+        level: 5
+      - label: K-Means / DBSCAN
+        level: 5
+      - label: Sentiment Analysis (VADER)
         level: 4
-      - label: High Creativity
+
+  - name: Data Science & Visualization
+    items:
+      - label: Pandas
         level: 5
-        
-  # - name: Research & Communication
-  #   items:
-  #     - label: Academic Writing
-  #       level: 5
-  #     - label: Conference Presentations
-  #       level: 4
-  #     - label: Grant Proposals
-  #       level: 4
+      - label: Matplotlib & Seaborn
+        level: 5
+      - label: Plotly
+        level: 4
+      - label: JSON Data Modeling
+        level: 5
+      - label: Automated Pipeline Engineering
+        level: 5
+
+  - name: Software & Frameworks
+    items:
+      - label: Python
+        level: 5
+      - label: LaTeX & Overleaf
+        level: 5
+      - label: GitHub
+        level: 5
+      - label: Google Colab
+        level: 4
+      - label: Open Science Framework (OSF)
+        level: 5
+
+  - name: Research Methodologies
+    items:
+      - label: LLM Red-Teaming
+        level: 5
+      - label: Adversarial Prompting
+        level: 5
+      - label: ANOVA / Hypothesis Testing
+        level: 5
+      - label: Qualitative Codebook Construction
+        level: 5
+      - label: Computational Anthropology
+        level: 4
 
 languages:
   - name: Pershian
