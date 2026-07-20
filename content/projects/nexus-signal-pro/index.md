@@ -10,7 +10,7 @@ tags:
   - Multi-Factor Analysis
   - Crypto
   - Forex
-date: 2024-06-01
+date: 2026-07-20
 show_date: false
 ---
 

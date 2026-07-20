@@ -3,6 +3,12 @@ title: 'Projects'
 date: 2024-05-19
 type: landing
 
+cascade:
+  - target:
+      path: '{/projects/**}'
+    params:
+      show_date: false
+
 # Page sections
 sections:
   - block: collection
@@ -12,6 +18,8 @@ sections:
       filters:
         folders:
           - projects
+        featured_only: false
+      count: 0
     design:
       view: card
       fill_image: false

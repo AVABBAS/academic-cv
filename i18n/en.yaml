@@ -1,2 +1,4 @@
 - id: pub_article_journal
   translation: Reasearch paper
+- id: last_updated
+  translation: ""

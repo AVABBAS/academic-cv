@@ -29,7 +29,6 @@ A large-scale computational social science project that constructs a **68-dimens
 | Node Dimensions | 68 |
 | Edge Dimensions | 20 |
 | Total Data Points | ~6.7 million |
-| Time Span | 23 months |
 
 ---
 
@@ -72,7 +71,7 @@ A large-scale computational social science project that constructs a **68-dimens
 
 ## 100 Research Analyses
 
-The hypergraph enables **100 distinct analyses** across 9 layers, with potential for **19 Q1 journal papers** in venues such as:
+The hypergraph enables **100 distinct analyses** across 9 layers, with potential for publication in venues such as:
 
 - *Nature Human Behaviour*
 - *PNAS / Science Advances*
@@ -91,6 +90,6 @@ The hypergraph enables **100 distinct analyses** across 9 layers, with potential
 
 ## Publication Potential
 
-> **19 Q1 papers | 100 analyses | 4.6M+ data points | 23-month longitudinal data**
+> **100 analyses | 4.6M+ data points**
 >
 > *"When Emojis Outperform BERT: A 68-Dimensional Framework for Personality, Mental Health, and Relationship Dynamics in Digital Communities"*
