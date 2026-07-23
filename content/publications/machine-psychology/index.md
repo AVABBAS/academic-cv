@@ -35,22 +35,24 @@ tags:
 featured: true
 
 links:
-- type: pdf
+- name: PDF
   url: "https://www.researchsquare.com/article/rs-10369594/v1.pdf?c=1784219642000"
-- type: code
+- name: Code
   url: "https://github.com/AVABBAS/Ten-Novel-Phenomena-Machine-Psychology"
-- type: dataset
+  icon_pack: fab
+  icon: github
+- name: Dataset
   url: "https://osf.io/gv6z4"
-- type: source
+  icon_pack: ai
+  icon: osf
+- name: Source Document
   url: "https://osf.io/gv6z4"
-- type: doi
-  url: "https://doi.org/10.21203/rs.3.rs-10369594/v1"
-- type: slides
+- name: Slides
   url: "https://www.slideshare.net/slideshow/ten-novel-phenomena-in-machine-psychology-how-large-language-models-exhibit-complex-identity-reactive-behaviors-in-response-to-ethnically-cued-user-names/288641452"
+- name: DOI
+  url: "https://doi.org/10.21203/rs.3.rs-10369594/v1"
 
-hugoblox:
-  ids:
-    doi: "10.21203/rs.3.rs-10369594/v1"
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

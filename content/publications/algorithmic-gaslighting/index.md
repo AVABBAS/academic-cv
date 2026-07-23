@@ -3,7 +3,6 @@ title: "Algorithmic Gaslighting: Reality Distortion by Large Language Models"
 authors:
   - me
 date: 2026-07-20
-doi: "10.21203/rs.3.rs-10386085/v1"
 
 publication_types:
   - article
@@ -29,8 +28,6 @@ tags:
 links:
 - name: PDF
   url: "https://www.researchsquare.com/article/rs-10386085/v1.pdf?c=1784549205000"
-  icon_pack: fas
-  icon: file-pdf
 - name: Code
   url: "https://github.com/AVABBAS/algorithmic-gaslighting"
   icon_pack: fab
@@ -41,8 +38,6 @@ links:
   icon: osf
 - name: Source Document
   url: "https://osf.io/qsvty/overview"
-  icon_pack: fas
-  icon: file-alt
 
 
 
