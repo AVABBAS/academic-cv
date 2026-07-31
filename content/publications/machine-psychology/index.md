@@ -68,6 +68,13 @@ projects: []
 slides: ""
 ---
 
+**🎧 Listen to the Podcast:**
+<audio controls style="width: 100%; margin-top: 10px; margin-bottom: 10px;">
+  <source src="podcast.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<a href="podcast.mp3" download style="display: inline-flex; align-items: center; padding: 6px 14px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500; margin-bottom: 20px;">⬇️ Download Podcast</a>
+
 **Status:** Preprint
 
 **Citation:**
