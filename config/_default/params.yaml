@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "CS Student & AI Researcher Open Science advocate Building tools to probe, analyze, and secure LLM architectures Exploring the intersection of Red Teaming and Interpretability."
+    description: "Abbas Hamidavi (عباس حمیداوی) - CS Student & AI Researcher Open Science advocate Building tools to probe, analyze, and secure LLM architectures Exploring the intersection of Red Teaming and Interpretability."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       telegram: "@av_abbas" # Twitter/X handle for Twitter Cards (without @)
