@@ -4,7 +4,7 @@ date: '2026-08-04T00:00:00Z'
 draft: false
 publishDate: '2026-08-04T00:00:00Z'
 authors:
-  - admin
+  - me
 publication_types:
   - '3' # Preprint
 publication: '*Research Square*'
