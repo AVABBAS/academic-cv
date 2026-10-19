@@ -45,6 +45,10 @@ links:
   url: "https://osf.io/gv6z4"
   icon_pack: ai
   icon: osf
+- name: Mendeley Data
+  url: "https://data.mendeley.com/datasets/h76chwbx83"
+  icon_pack: ai
+  icon: mendeley
 - name: Source Document
   url: "https://osf.io/gv6z4"
 - name: Slides

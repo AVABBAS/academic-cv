@@ -89,6 +89,14 @@ experience:
       - Authored a 14-Paper Scientific Corpus: Conducted an extensive, multi-phase research initiative resulting in a cohesive 14-paper corpus establishing the foundations of "Machine Psychology" and "Computational Phenomenology."
       - Open Science & Data Archiving: Compiled, annotated, and open-sourced massive behavioral datasets (including 634+ pages of raw Grok adversarial logs) and detailed multi-level codebooks. Managed the end-to-end registration of these assets on the Open Science Framework (OSF) under a CC-BY 4.0 International license.
 
+  - role: Academic Peer Reviewer
+    org: Elsevier (Information Processing & Management; Computers in Human Behavior)
+    start: 2026
+    summary: |
+      - Peer reviewer for Information Processing & Management (ISSN 0306-4573); the review is recorded in the formal peer-review section of my ORCID record.
+      - Peer reviewer for Computers in Human Behavior (Elsevier).
+      - Peer-review record: https://orcid.org/0009-0001-7342-7844
+
   - role: Machine Learning & Data Engineer
     org: Computational Phenomenology Analytics
     start: present
