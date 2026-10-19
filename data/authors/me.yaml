@@ -11,7 +11,7 @@ name:
 
 status:
   icon: "☕️"
-role: Jonior AI Research Scientist
+  role: Junior AI Research Scientist
 bio: |
   CS Student & AI Researcher 
   Open Science advocate
@@ -33,7 +33,7 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/abbas-hamidavi/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=FWqAHkgAAAAJ&hl=fa&authuser=1
+    url: https://scholar.google.com/citations?user=FWqAHkgAAAAJ&hl=fa
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Abbas-Hamidavi
   - icon: academicons/orcid
@@ -41,6 +41,12 @@ links:
   - icon: academicons/arxiv
     url: https://www.alphaxiv.org/@abbas-hamidavi
     label: alphaXiv
+  - icon: fa/database
+    url: https://osf.io/nbvf8/
+    label: OSF
+  - icon: academicons/mendeley
+    url: https://data.mendeley.com/datasets/h76chwbx83
+    label: Mendeley Data
   - icon: brands/telegram
     url: https://t.me/Av_abbas
     label: Telegram
@@ -162,7 +168,7 @@ skills:
         level: 4
 
 languages:
-  - name: Pershian
+  - name: Persian
     level: 5
     label: Native
   - name: English
