@@ -38,8 +38,9 @@ links:
     url: https://www.researchgate.net/profile/Abbas-Hamidavi
   - icon: academicons/orcid
     url: https://orcid.org/0009-0001-7342-7844
-  # - icon: arvix
-  #   url: https://orcid.org/0009-0001-7342-7844
+  - icon: academicons/arxiv
+    url: https://www.alphaxiv.org/@abbas-hamidavi
+    label: alphaXiv
   - icon: brands/telegram
     url: https://t.me/Av_abbas
     label: Telegram
