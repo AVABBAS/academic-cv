@@ -47,6 +47,9 @@ links:
   - icon: academicons/mendeley
     url: https://data.mendeley.com/datasets/h76chwbx83
     label: Mendeley Data
+  - icon: fa/robot
+    url: https://huggingface.co/avabbas
+    label: Hugging Face
   - icon: brands/telegram
     url: https://t.me/Av_abbas
     label: Telegram
