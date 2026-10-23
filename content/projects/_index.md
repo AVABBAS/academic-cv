@@ -14,7 +14,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Projects, tools, and pipelines from my research - built to probe, analyze, and secure large language models.
       filters:
         folders:
           - projects
