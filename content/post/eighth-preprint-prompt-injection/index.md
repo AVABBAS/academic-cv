@@ -5,6 +5,11 @@ authors:
   - me
 summary: "The Machine Psychology corpus grows to eight: a comparative red-team analysis of prompt-injection resistance across Grok, Qwen, DeepSeek, ChatGPT, Gemini 2.5 Pro, and Claude 3.5 — including a first-person report of an AI system suspending the researcher's account."
 tags: ["News", "Machine Psychology", "Red Teaming"]
+image:
+  caption: "Prompt-injection resistance across six frontier LLMs"
+  focal point: 'Center'
+  preview: true
+  filename: 'featured.png'
 ---
 
 The Machine Psychology corpus now spans **eight preprints**. The newest — [*From Fabrication to Enforcement: A Comparative Red-Team Analysis of Prompt Injection Resistance Across Six Large Language Models*](https://doi.org/10.21203/rs.3.rs-11454609/v1) — was posted on [Research Square](https://www.researchsquare.com/article/rs-11454609/v1) on 22 October 2026 (CC-BY 4.0).

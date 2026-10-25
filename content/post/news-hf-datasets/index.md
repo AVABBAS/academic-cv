@@ -5,6 +5,11 @@ authors:
   - me
 summary: "All seven core datasets behind the Machine Psychology preprints are now public on Hugging Face, alongside OSF, Mendeley Data, and GitHub."
 tags: ["News", "Machine Psychology", "Open Science"]
+image:
+  caption: "Seven Machine Psychology datasets now public on Hugging Face"
+  focal point: 'Center'
+  preview: true
+  filename: 'featured.png'
 ---
 
 The **Machine Psychology** corpus is now easier to use than ever: all seven core datasets are public on [Hugging Face](https://huggingface.co/datasets/avabbas), in addition to the Open Science Framework, Mendeley Data, and GitHub.

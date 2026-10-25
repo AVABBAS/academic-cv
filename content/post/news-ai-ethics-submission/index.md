@@ -5,6 +5,11 @@ authors:
   - me
 summary: "The revised manuscript of Ten Novel Phenomena in Machine Psychology, responding point by point to the editor's and reviewers' comments, has been submitted to AI and Ethics (Springer Nature)."
 tags: ["News", "Machine Psychology", "Publication"]
+image:
+  caption: "Major revision submitted to AI and Ethics"
+  focal point: 'Center'
+  preview: true
+  filename: 'featured.png'
 ---
 
 The revised manuscript of **Ten Novel Phenomena in Machine Psychology** has been submitted to **AI and Ethics** (Springer Nature).

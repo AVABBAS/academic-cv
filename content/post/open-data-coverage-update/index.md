@@ -1,10 +1,15 @@
 ---
 title: "All Seven Machine Psychology Preprints Now Fully Open: Data, Code, and Coverage Update"
 date: 2026-10-20
-authors: 
+authors:
   - me
 summary: "Every preprint in the Machine Psychology corpus now has its data published openly (OSF + Mendeley Data + GitHub), and the corpus has been picked up by international indexers and coverage outlets."
 tags: ["News", "Machine Psychology", "Open Science"]
+image:
+  caption: "Fully open data, code, and international coverage"
+  focal point: 'Center'
+  preview: true
+  filename: 'featured.png'
 ---
 
 Two updates on the **Machine Psychology** corpus (seven preprints, all published on Research Square in July 2026 under CC-BY 4.0):

@@ -5,6 +5,11 @@ authors:
   - me
 summary: "I have updated my LinkedIn research profile and started a short series sharing the Machine Psychology work with a broader audience."
 tags: ["News", "Machine Psychology"]
+image:
+  caption: "Sharing the Machine Psychology research on LinkedIn"
+  focal point: 'Center'
+  preview: true
+  filename: 'featured.png'
 ---
 
 I have refreshed my LinkedIn research profile and started a short series of posts sharing the **Machine Psychology** work with a broader audience — from recursive depth of inquiry (RDI) and algorithmic gaslighting to the lie-awareness spectrum and performative self-correction.

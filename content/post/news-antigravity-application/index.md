@@ -5,6 +5,11 @@ authors:
   - me
 summary: "I have applied for Google Antigravity researcher access to run large-scale LLM red-teaming and interpretability experiments."
 tags: ["News", "Open Science"]
+image:
+  caption: "Applying for Google Antigravity researcher access"
+  focal point: 'Center'
+  preview: true
+  filename: 'featured.png'
 ---
 
 I have applied for **Google Antigravity** researcher access.

@@ -1,10 +1,15 @@
 ---
 title: "Paper Featured on gist.science"
 date: 2026-07-22
-authors: 
+authors:
   - me
 summary: "Our recent preprint on Algorithmic Gaslighting has been summarized and featured on gist.science!"
 tags: ["News", "Machine Psychology"]
+image:
+  caption: "Algorithmic Gaslighting featured on gist.science"
+  focal point: 'Center'
+  preview: true
+  filename: 'featured.png'
 ---
 
 I am happy to share that our recent preprint, **[Algorithmic Gaslighting: Reality Distortion by Large Language Models](https://doi.org/10.21203/rs.3.rs-10386085/v1)**, has been summarized and featured on **gist.science**!
