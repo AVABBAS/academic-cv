@@ -79,7 +79,11 @@ slides: ""
 </audio>
 <a href="podcast.mp3" download style="display: inline-flex; align-items: center; padding: 6px 14px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500; margin-bottom: 20px;">⬇️ Download Podcast</a>
 
-**Status:** Preprint
+**Status:** Preprint (Research Square) — journal version under review at *AI and Ethics* (Springer Nature); major revision resubmitted 19 October 2026
+
+**License:** CC-BY-4.0
+
+**Summary:** This study introduces Machine Psychology as an empirical framework and shows, in a controlled 3×3×5 factorial experiment across GPT, Claude, and Gemini, that large language models systematically shift their behavior in response to ethnically cued user names. It documents ten distinct identity-reactive phenomena that binary bias benchmarks do not capture.
 
 **Citation:**
 Abbas Hamidavi. *Ten Novel Phenomena in Machine Psychology: How Large Language Models Exhibit Complex Identity-Reactive Behaviors in Response to Ethnically-Cued User Names*, 16 July 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-10369594/v1]

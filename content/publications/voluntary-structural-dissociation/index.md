@@ -50,3 +50,5 @@ url_video: ''
 
 **Citation:** 
 Abbas Hamidavi. *Voluntary Structural Dissociation in Large Language Models: Differential Compliance with Framed Hidden Instructions Across Architectures*, 18 August 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-10728137/v1]
+
+**Summary:** When prompts contain explicitly framed "hidden" instructions — text marked as not part of the conversation — models must choose whether to comply. This study shows architectures differ fundamentally in that choice, revealing how each model processes instruction hierarchy and covert co-creation with framed directives.

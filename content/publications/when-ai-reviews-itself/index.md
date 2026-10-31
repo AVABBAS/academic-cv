@@ -48,3 +48,12 @@ image:
   Your browser does not support the audio element.
 </audio>
 <a href="podcast.mp3" download style="display: inline-flex; align-items: center; padding: 6px 14px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500; margin-bottom: 20px;">⬇️ Download Podcast</a>
+
+**Status:** Preprint (Research Square)
+
+**License:** CC-BY-4.0
+
+**Summary:** Three frontier models were put through 72 rounds of iterative self-review of their own answers. They produced long, detailed critiques of their work yet changed their answers in essentially none of the rounds — self-correction was performed rhetorically rather than carried out.
+
+**Citation:**
+Abbas Hamidavi. *When AI Reviews Itself: Zero Answer Changes Across 72 Self-Correction Rounds*, 27 July 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-10463884/v1]

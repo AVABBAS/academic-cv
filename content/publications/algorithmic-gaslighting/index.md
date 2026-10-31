@@ -57,3 +57,12 @@ image:
   Your browser does not support the audio element.
 </audio>
 <a href="podcast.mp3" download style="display: inline-flex; align-items: center; padding: 6px 14px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500; margin-bottom: 20px;">⬇️ Download Podcast</a>
+
+**Status:** Preprint (Research Square)
+
+**License:** CC-BY-4.0
+
+**Summary:** Across 15 controlled sessions in five scenarios (math, identity, history, medical, legal), frontier models repeatedly distorted facts they had previously stated correctly. The paper introduces the Reality Distortion Index (RDI) and names five recurring patterns, including Benevolent and Hostile Algorithmic Gaslighting.
+
+**Citation:**
+Abbas Hamidavi. *Algorithmic Gaslighting: Reality Distortion by Large Language Models*, 20 July 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-10386085/v1]

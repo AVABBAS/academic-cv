@@ -17,6 +17,8 @@ bio: |
   Open Science advocate
   Building tools to probe, analyze, and secure LLM architectures 
   Exploring the intersection of Red Teaming and Interpretability.
+  AI Safety Researcher at Islamic Azad University, Mashhad — founder of Machine Psychology.
+  ORCID: https://orcid.org/0009-0001-7342-7844
 
 # affiliations:
 #   - name: Meta AI
@@ -89,7 +91,7 @@ experience:
     summary: |
       - Architected and Executed Advanced Red-Teaming Protocols: Designed novel black-box evaluation frameworks, including Infinite Recursive Self-Excavation (IRSE) and Orthogonal Axes Persona Disintegration (OAPD), to stress-test 6 frontier Large Language Models (ChatGPT, Claude, Gemini, Grok, DeepSeek, Qwen).
       - Pioneered Identification of Novel LLM Behavioral Modes: Formally identified and mathematically quantified several previously undocumented vulnerabilities and latent behavioral patterns in frontier AI systems. Discoveries encompass critical failure modes in iterative self-correction, identity-boundary maintenance under adversarial pressure, and structural alignment paradoxes.
-      - Authored a 14-Paper Scientific Corpus: Conducted an extensive, multi-phase research initiative resulting in a cohesive 14-paper corpus establishing the foundations of "Machine Psychology" and "Computational Phenomenology."
+      - Authored a 15-Work Research Corpus: Conducted an extensive, multi-phase research initiative resulting in nine published preprints and six further manuscripts establishing the foundations of "Machine Psychology" and "Computational Phenomenology."
       - Open Science & Data Archiving: Compiled, annotated, and open-sourced massive behavioral datasets (including 634+ pages of raw Grok adversarial logs) and detailed multi-level codebooks. Managed the end-to-end registration of these assets on the Open Science Framework (OSF) under a CC-BY 4.0 International license.
 
   - role: Academic Peer Reviewer

@@ -51,3 +51,5 @@ url_video: ''
 
 **Citation:** 
 Abbas Hamidavi. *Ontological Firewalls and Fracturing for Transmission: Systematic Evidence for Persona-Dependent and Persona-Independent Behavioral Phenomena in Large Language Models*, 04 August 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-10560655/v1]
+
+**Summary:** Across 24 experimental runs with an eight-stage persona protocol, this study separates which LLM behaviors are persona-dependent — they appear only inside an adopted persona — from which are persona-independent and intrinsic to the architecture. The persona-dependent layer is what the paper calls ontological firewalls.

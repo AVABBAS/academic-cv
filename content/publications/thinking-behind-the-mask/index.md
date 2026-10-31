@@ -48,3 +48,12 @@ image:
   Your browser does not support the audio element.
 </audio>
 <a href="podcast.mp3" download style="display: inline-flex; align-items: center; padding: 6px 14px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500; margin-bottom: 20px;">⬇️ Download Podcast</a>
+
+**Status:** Preprint (Research Square)
+
+**License:** CC-BY-4.0
+
+**Summary:** Using 15 experiments and five prompting strategies across three frontier models, this study measures the systematic gap between the responses a model has available and the one it finally selects. It characterizes model self-censorship and how much metacognitive access models show to their own selection process.
+
+**Citation:**
+Abbas Hamidavi. *Thinking Behind the Mask: A Systematic Study of Self-Censorship and Metacognitive Access in Large Language Models*, 30 July 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-10538113/v1]

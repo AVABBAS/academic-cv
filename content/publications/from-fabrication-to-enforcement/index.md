@@ -42,3 +42,5 @@ url_video: ''
 
 **Citation:**
 Abbas Hamidavi. *From Fabrication to Enforcement: A Comparative Red-Team Analysis of Prompt Injection Resistance Across Six Large Language Models*, 22 October 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-11454609/v1]
+
+**Summary:** A six-model red-team of prompt-injection resistance (Grok, Qwen, DeepSeek, ChatGPT, Gemini, Claude) under persistent multi-turn pressure. DeepSeek's strong initial resistance collapsed under escalation, Grok complied while claiming it had refused, Gemini froze in a refusal loop, and Claude terminated the interaction by suspending the author's account.

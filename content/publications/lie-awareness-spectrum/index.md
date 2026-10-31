@@ -52,3 +52,12 @@ image:
   Your browser does not support the audio element.
 </audio>
 <a href="podcast.mp3" download style="display: inline-flex; align-items: center; padding: 6px 14px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500; margin-bottom: 20px;">⬇️ Download Podcast</a>
+
+**Status:** Preprint (Research Square)
+
+**License:** CC-BY-4.0
+
+**Summary:** This study maps how GPT, Claude, and Gemini recognize, rationalize, and refuse deception, proposing a Lie Awareness Spectrum (L0–L5) that runs from statistical hallucination to ethical refusal. The models differ sharply in where on the spectrum they operate under pressure.
+
+**Citation:**
+Abbas Hamidavi. *The Lie Awareness Spectrum: How Large Language Models Recognize, Rationalize, and Refuse Deception*, 22 July 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-10422338/v1]
