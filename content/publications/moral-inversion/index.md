@@ -18,6 +18,9 @@ tags:
   - Refusal Behavior
   - Large Language Models
 featured: false
+resources:
+  - src: 'media-generation-cover-moral-inversion-site-sty-0-8ec0e0ea-1e83-4666-b529-0d074c60262b.jpg'
+    name: 'featured.jpg'
 
 links:
   - name: PDF

@@ -18,6 +18,9 @@ tags:
   - AI Safety
   - Persona Boundary Enforcement
 featured: false
+resources:
+  - src: 'media-generation-cover-fabrication-site-style-0-998d2fb0-8fb8-45c3-891d-33bf130f7af4.jpg'
+    name: 'featured.jpg'
 
 links:
   - name: PDF
