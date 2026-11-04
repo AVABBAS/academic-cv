@@ -67,6 +67,8 @@ sections:
         Machine Psychology is an empirical framework for studying large language models the way psychology studies minds: through controlled behavioral experiments rather than static benchmarks. It maps and quantifies the latent behavioral, cognitive, and ethical architectures of LLMs: how models react to identity cues, personas, hidden instructions, and moral pressure, treating them as complex relational agents whose behavior can be measured, compared across architectures, and tracked over time. My own programme in the field began with "Ten Novel Phenomena in Machine Psychology" (2026) and now spans fifteen studies.
     design:
       columns: '1'
+      background:
+        color: '#eef2f9'
   - block: collection
     id: papers
     content:

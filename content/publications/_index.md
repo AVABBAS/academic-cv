@@ -10,3 +10,5 @@ banner:
   caption: ''
   image: ''
 ---
+
+Fifteen works: fourteen manuscripts under review at international journals and one workshop submission. Each entry links its preprint and its open materials (transcripts, protocols, codebooks, and data).
