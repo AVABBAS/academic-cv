@@ -1,6 +1,6 @@
 ---
 title: "The Lie Awareness Spectrum: How Large Language Models Recognize, Rationalize, and Refuse Deception"
-summary: \"Under review at AI and Society (Springer Nature). Preprint: Research Square."
+summary: "Under review at AI and Society (Springer Nature). Preprint: Research Square."
 authors:
   - me
 date: 2026-07-22

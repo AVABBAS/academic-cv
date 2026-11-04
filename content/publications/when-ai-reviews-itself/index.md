@@ -1,6 +1,6 @@
 ---
 title: "When AI Reviews Itself: Zero Answer Changes Across 72 Self-Correction Rounds"
-summary: \"Under review at AI and Society (Springer Nature) under the title “Judged Wrong, Answered the Same”. Preprint: Research Square."
+summary: "Under review at AI and Society (Springer Nature) under the title “Judged Wrong, Answered the Same”. Preprint: Research Square."
 authors:
   - me
 date: 2026-07-27
