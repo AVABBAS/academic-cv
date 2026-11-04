@@ -1,4 +1,6 @@
 ---
+draft: true
+
 title: "🐉 HydraSurvive — Autonomous Internet Survival System for Censored Networks"
 summary: "An AI-powered internet connectivity survival system engineered to maintain reliable international access under extreme censorship. Employs a 7-layer architecture with 10,000+ simultaneous connection attempts across 60+ protocols, AI-powered protocol adaptation, P2P mesh networking, and satellite integration."
 tags:

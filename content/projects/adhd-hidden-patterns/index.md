@@ -1,4 +1,6 @@
 ---
+draft: true
+
 title: "Uncovering Hidden Patterns in ADHD: A Data-Driven Analysis of Unusual Behavioral Traits"
 date: 2026-07-23
 summary: "This project leverages the National Survey of Children's Health (NSCH) 2023-2024 dataset to uncover distinctive and unusual behavioral patterns associated with Attention-Deficit/Hyperactivity Disorder (ADHD) in children."

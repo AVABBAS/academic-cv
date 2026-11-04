@@ -23,6 +23,3 @@ main:
 #  - name: Courses
 #    url: courses/
 #    weight: 40
-  - name: "Things I've Learned"
-    url: courses/
-    weight: 40

@@ -1,4 +1,6 @@
 ---
+draft: true
+
 title: "🏆 Nexus Signal Pro — Multi-Factor Trading Indicator"
 summary: "A high-precision, multi-criteria trading indicator built with Pine Script v6 for TradingView, evaluating 65 real-time market criteria across 16 analytical categories to deliver actionable Buy/Sell/Neutral signals with dynamic risk management."
 tags:

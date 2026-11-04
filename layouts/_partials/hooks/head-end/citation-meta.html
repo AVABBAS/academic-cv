@@ -1,0 +1,6 @@
+{{ if eq .Type "publications" }}
+<meta name="citation_title" content="{{ .Title }}">
+<meta name="citation_author" content="Hamidavi, Abbas">
+{{ with .Date }}<meta name="citation_publication_date" content="{{ .Format "2006/01/02" }}">{{ end }}
+{{ range .Params.links }}{{ if eq .name "PDF" }}<meta name="citation_pdf_url" content="{{ .url }}">{{ end }}{{ end }}
+{{ end }}
