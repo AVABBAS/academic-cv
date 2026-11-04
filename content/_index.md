@@ -68,7 +68,8 @@ sections:
     design:
       columns: '1'
       background:
-        color: '#eef2f9'
+        color: '#0a1f44'
+        text_color_light: true
   - block: collection
     id: papers
     content:
