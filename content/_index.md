@@ -43,6 +43,8 @@ sections:
         </div>
     design:
       columns: '1'
+      spacing:
+        padding: ['5rem', '0', '0', '0']
   - block: markdown
     content:
       title: '📚 My Research'
@@ -55,6 +57,8 @@ sections:
         Please reach out to collaborate! 😃
     design:
       columns: '1'
+      spacing:
+        padding: ['0', '0', '5rem', '0']
   - block: markdown
     content:
       title: 'What is Machine Psychology?'

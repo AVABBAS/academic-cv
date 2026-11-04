@@ -1,5 +1,4 @@
 ---
-draft: true
 
 title: "🎓 Predicting Full-Ride Scholarships: A Data-Driven Analysis of College Admissions"
 summary: "Analyzed 1M+ college applications to identify minimum requirements for full-ride scholarships. Engineered a weighted composite scoring system revealing the top 1% need SAT>1450, GPA>3.8, and 3+ leadership roles — plus an international student simulator for need-aware admissions modeling."

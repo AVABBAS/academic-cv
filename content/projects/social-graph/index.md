@@ -1,5 +1,4 @@
 ---
-draft: true
 
 title: "🧬 68-Dimensional Social Graph: Computational Social Science on 10M Persian Telegram Messages"
 summary: "A 68-dimensional computational social science framework revealing hidden personality traits, mental health indicators, and relationship dynamics from 10 million real-world chat messages."
