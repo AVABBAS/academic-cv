@@ -1,5 +1,6 @@
 ---
 title: "Thinking Behind the Mask: A Systematic Study of Self-Censorship and Metacognitive Access in Large Language Models"
+summary: \"Under review at AI and Society (Springer Nature). Preprint: Research Square."
 authors:
   - me
 date: 2026-07-30

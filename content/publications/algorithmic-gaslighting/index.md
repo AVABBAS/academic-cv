@@ -1,5 +1,6 @@
 ---
 title: "Algorithmic Gaslighting: Reality Distortion by Large Language Models"
+summary: \"Under review as a workshop submission at CALE-AI (decision expected December 2026). A longer version is posted as this preprint."
 authors:
   - me
 date: 2026-07-20
