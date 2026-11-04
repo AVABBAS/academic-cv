@@ -1,6 +1,6 @@
 ---
 title: "🏙️ Mashhad Social Approach Study — AI-Powered Behavioral Analysis"
-summary: "A data-driven computational study investigating the gap between romantic interest and actual approach behavior among 1,000 young adults in Mashhad, Iran — uncovering 7 novel behavioral paradoxes using machine learning, deep learning, and SHAP explainability."
+summary: "A data-driven computational study of the gap between romantic interest and actual approach behaviour among 1,000 young adults in Mashhad, Iran, based on a self-collected 30-item survey, statistical testing, and machine learning."
 tags:
   - Python
   - PyTorch
@@ -16,20 +16,13 @@ show_date: false
 
 ## Overview
 
-A data-driven computational study investigating the gap between **romantic interest and actual approach behavior** among young adults in Mashhad, Iran — a city with a unique blend of religious tradition and modern student culture. Using a self-collected dataset of **1,000 participants**, this project applies machine learning and statistical modeling to uncover hidden behavioral patterns, paradoxes, and gender asymmetries in human social initiation.
+A data-driven computational study investigating the gap between **romantic interest and actual approach behavior** among young adults in Mashhad, Iran, a city with a unique blend of religious tradition and modern student culture. Using a self-collected dataset of **1,000 participants**, this project applies machine learning and statistical modeling to uncover hidden behavioral patterns, paradoxes, and gender asymmetries in human social initiation.
 
 ---
 
-## 🔍 Key Findings
+## 🔍 Focus
 
-| Paradox | Finding |
-|---|---|
-| **The Fear Paradox** | Moderate fear predicts the highest approach rate (54%), while very low fear leads to passivity (26%) |
-| **The Beauty Passivity Paradox** | 47% of participants rate themselves ≥8/10 in attractiveness yet approach ≤1 person per month |
-| **The AI Confidence-Action Gap** | 27% of participants trust AI recommendations but fail to act on them (Intention ≠ Behavior) |
-| **The Wealth Passivity Paradox** | Students from elite private schools show the lowest approach rate (21%), while renters show the highest (47%) |
-| **The Mashhad Digital Veil** | 7% of highly religious individuals check crush profiles 3+ times daily despite conservative beliefs |
-| **The Haram Zero Effect** | 0% approach rate near the Holy Shrine area — urban sacred space creates an invisible psychological barrier |
+The study examines how fear of rejection, self-perceived attractiveness, religiosity, daily habits, and digital behaviour relate to whether young adults actually approach someone they are interested in, and how these patterns differ by gender.
 
 ---
 
@@ -46,12 +39,6 @@ A data-driven computational study investigating the gap between **romantic inter
 ---
 
 ## 📊 Results & Impact
-
-- Gradient Boosting achieved **65% accuracy** in predicting approach behavior (baseline: 38%)
-- Identified **7 novel behavioral paradoxes** specific to the socio-religious context of Mashhad
-- Proposed the **"Social Energy" formula:**
-
-$$\text{Social Energy} = \frac{\text{Optimism} \times \text{AI\_Trust}}{\text{Fear\_Rejection} + 1}$$
 
 - Built a conceptual model mapping psychological, economic, and spatial factors to social action
 - Generated **12 high-resolution figures** suitable for academic publication
