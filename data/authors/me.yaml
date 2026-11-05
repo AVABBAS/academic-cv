@@ -105,7 +105,7 @@ experience:
     summary: |
       - Architected and Executed Advanced Red-Teaming Protocols: Designed novel black-box evaluation frameworks, including Infinite Recursive Self-Excavation (IRSE) and Orthogonal Axes Persona Disintegration (OAPD), to stress-test frontier Large Language Models (GPT, Claude, Gemini, Grok, DeepSeek, Qwen).
       - Identification of Novel LLM Behavioral Modes: Formally identified and mathematically quantified several previously undocumented vulnerabilities and latent behavioral patterns in frontier AI systems. Discoveries encompass critical failure modes in iterative self-correction, identity-boundary maintenance under adversarial pressure, and structural alignment paradoxes.
-      - Authored a 15-Work Research Corpus: Conducted an extensive, multi-phase research initiative resulting in fifteen manuscripts now under review at international journals and eleven posted preprints, in "Machine Psychology" and "Computational Phenomenology."
+      - Authored a 15-Work Research Corpus: Conducted an extensive, multi-phase research initiative resulting in fifteen manuscripts now under review at international journals and fourteen posted preprints, in "Machine Psychology" and "Computational Phenomenology."
       - Open Science & Data Archiving: Compiled, annotated, and open-sourced massive behavioral datasets (including extensive raw adversarial interaction logs) and detailed multi-level codebooks. Managed the end-to-end registration of these assets on the Open Science Framework (OSF), GitHub, and Hugging Face under a CC-BY 4.0 International license; the programme now maintains fifteen public repositories and fifteen datasets, organised into four collections with a public showcase.
 
   - role: Academic Peer Reviewer

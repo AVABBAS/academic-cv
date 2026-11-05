@@ -14,6 +14,8 @@ tags:
   - Interview Methods
   - Self-Report
 links:
+  - name: PDF
+    url: "https://www.researchsquare.com/article/rs-11625507/v1.pdf"
   - name: Preprint (Research Square)
     url: "https://www.researchsquare.com/article/rs-11625507"
   - name: GitHub

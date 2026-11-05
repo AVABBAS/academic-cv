@@ -14,6 +14,8 @@ tags:
   - Deliberation
   - Multi-Agent Systems
 links:
+  - name: PDF
+    url: "https://www.researchsquare.com/article/rs-11612929/v1.pdf"
   - name: Preprint (Research Square)
     url: "https://www.researchsquare.com/article/rs-11612929"
   - name: GitHub

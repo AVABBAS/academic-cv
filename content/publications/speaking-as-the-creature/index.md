@@ -14,6 +14,8 @@ tags:
   - Role-Play
   - Register
 links:
+  - name: PDF
+    url: "https://www.researchsquare.com/article/rs-11613008/v1.pdf"
   - name: Preprint (Research Square)
     url: "https://www.researchsquare.com/article/rs-11613008"
   - name: GitHub
