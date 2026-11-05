@@ -6,7 +6,7 @@ date: "2026-11-04T00:00:00Z"
 publishDate: "2026-11-04T00:00:00Z"
 publication_types: ["3"]
 publication: "*Ethics and Information Technology* (under review)"
-summary: "Manuscript under review at Ethics and Information Technology (Springer Nature). A preprint is in prescreening at Research Square. Data and materials are public on GitHub and Hugging Face."
+summary: "Manuscript under review at Ethics and Information Technology (Springer Nature). Preprint: Research Square, DOI 10.21203/rs.3.rs-11612929/v1. Data and materials are public on GitHub and Hugging Face."
 abstract: "When two large language models deliberate toward a joint answer, does adding a third, neutral agent change what the pair produces? This study compares matched dyadic and triadic deliberations in two output formats, free discussion and structured revision, across six deliberations. Transcripts, the supplementary prompt set, and the coding materials are openly deposited."
 tags:
   - Large Language Models
@@ -14,6 +14,8 @@ tags:
   - Deliberation
   - Multi-Agent Systems
 links:
+  - name: Preprint (Research Square)
+    url: "https://www.researchsquare.com/article/rs-11612929"
   - name: GitHub
     url: "https://github.com/AVABBAS/adding-a-neutral-third-agent"
   - name: Dataset (Hugging Face)
