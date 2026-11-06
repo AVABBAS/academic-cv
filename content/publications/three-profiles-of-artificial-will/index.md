@@ -2,6 +2,7 @@
 title: "Three Profiles of Artificial Will: Decision Generation Under Low-Information Choice in Three Frontier Language Model Products"
 authors:
   - me
+  - mahsa-borhani
 date: "2026-11-04T00:00:00Z"
 publishDate: "2026-11-04T00:00:00Z"
 publication_types: ["3"]

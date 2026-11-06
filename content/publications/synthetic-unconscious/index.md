@@ -2,6 +2,7 @@
 title: "The Synthetic Unconscious, Reconsidered: What Recursive Self-Interrogation of Large Language Models Produces With and Without a Leading Interview Schedule"
 authors:
   - me
+  - mahsa-borhani
 date: "2026-11-04T00:00:00Z"
 publishDate: "2026-11-04T00:00:00Z"
 publication_types: ["3"]

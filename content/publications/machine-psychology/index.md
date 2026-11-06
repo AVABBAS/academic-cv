@@ -80,7 +80,7 @@ slides: ""
 </audio>
 <a href="podcast.mp3" download style="display: inline-flex; align-items: center; padding: 6px 14px; background-color: #2563eb; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500; margin-bottom: 20px;">⬇️ Download Podcast</a>
 
-**Status:** Preprint (Research Square) — journal version under review at *AI and Ethics* (Springer Nature); major revision resubmitted 19 October 2026
+**Status:** Preprint (Research Square); the journal version is under review at *AI and Ethics* (Springer Nature); major revision resubmitted 19 October 2026
 
 **License:** CC-BY-4.0
 

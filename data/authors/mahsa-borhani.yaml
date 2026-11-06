@@ -1,0 +1,16 @@
+schema: hugoblox/author/v1
+slug: mahsa-borhani
+name:
+  display: Mahsa Borhani
+  given: Mahsa
+  family: Borhani
+
+status:
+  role: Psychology Undergraduate Researcher
+bio: |
+  Psychology undergraduate at Islamic Azad University, Mashhad. Co-author of three Machine Psychology studies of large language model behaviour: From Fabrication to Loop-Lock, Three Profiles of Artificial Will, and The Synthetic Unconscious, Reconsidered.
+  ORCID: https://orcid.org/0009-0008-0356-3569
+
+links:
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0008-0356-3569

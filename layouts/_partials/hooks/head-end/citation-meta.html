@@ -1,6 +1,8 @@
 {{ if eq .Type "publications" }}
 <meta name="citation_title" content="{{ .Title }}">
-<meta name="citation_author" content="Hamidavi, Abbas">
-{{ with .Date }}<meta name="citation_publication_date" content="{{ .Format "2006/01/02" }}">{{ end }}
-{{ range .Params.links }}{{ if eq .name "PDF" }}<meta name="citation_pdf_url" content="{{ .url }}">{{ end }}{{ end }}
-{{ end }}
+{{ range .Params.authors }}{{ $a := index site.Data.authors . }}{{ if $a }}<meta name="citation_author" content="{{ $a.name.family }}, {{ $a.name.given }}">
+{{ end }}{{ end }}{{ with .Date }}<meta name="citation_publication_date" content="{{ .Format "2006/01/02" }}">
+{{ end }}{{ range .Params.links }}{{ if eq .name "PDF" }}<meta name="citation_pdf_url" content="{{ .url }}">
+{{ end }}{{ if hasPrefix .url "https://doi.org/" }}<meta name="citation_doi" content="{{ strings.TrimPrefix "https://doi.org/" .url }}">
+{{ end }}{{ if in .url "researchsquare.com/article/" }}{{ $m := findRE "rs-[0-9]+" .url }}{{ if $m }}<meta name="citation_doi" content="10.21203/rs.3.{{ index $m 0 }}/v1">
+{{ end }}{{ end }}{{ end }}{{ end }}
