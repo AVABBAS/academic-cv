@@ -5,8 +5,8 @@ authors:
 date: "2026-11-04T00:00:00Z"
 publishDate: "2026-11-04T00:00:00Z"
 publication_types: ["3"]
-publication: "*Minds and Machines* (under review)"
-summary: "Manuscript under review at Minds and Machines (Springer Nature), manuscript MIND-D-26-01675, with Mahsa Borhani. Data and materials are public on GitHub and Hugging Face."
+publication: "*Journal of Experimental & Theoretical Artificial Intelligence* (under review)"
+summary: "Manuscript under review at the Journal of Experimental & Theoretical Artificial Intelligence (Taylor & Francis), with Mahsa Borhani. Preprint: Zenodo, DOI 10.5281/zenodo.24013229. Data and materials are public on GitHub and Hugging Face."
 abstract: "Forced to generate decisions in low-information choice situations, do language models fall back on stable, model-specific decision profiles? Eighty-four runs (seven archetype families in four rounds per model) with three frontier model products show three qualitatively different ways of manufacturing a decision when the information runs out. Run transcripts, trajectories, and coding materials are openly deposited."
 tags:
   - Large Language Models
@@ -14,6 +14,10 @@ tags:
   - Decision Making
   - Agency
 links:
+  - name: PDF
+    url: "https://zenodo.org/records/24013229/files/13-three-profiles-of-artificial-will-Clean.pdf"
+  - name: Preprint (Zenodo)
+    url: "https://doi.org/10.5281/zenodo.24013229"
   - name: GitHub
     url: "https://github.com/AVABBAS/three-profiles-of-artificial-will"
   - name: Dataset (Hugging Face)
