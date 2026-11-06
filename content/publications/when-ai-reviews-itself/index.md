@@ -38,6 +38,7 @@ links:
   url: "https://doi.org/10.21203/rs.3.rs-10463884/v1"
 
 image:
+  placement: 3
   caption: ''
   focal_point: ''
   preview_only: false

@@ -47,6 +47,7 @@ links:
 
 
 image:
+  placement: 3
   caption: ''
   focal_point: ''
   preview_only: false
