@@ -87,6 +87,18 @@ sections:
       spacing:
         padding: ['3rem', '0', '3rem', '0']
   - block: collection
+    id: featured
+    content:
+      title: Featured Research
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 1
+
+  - block: collection
     id: papers
     content:
       title: Publications
@@ -129,6 +141,31 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: markdown
+    content:
+      title: 'Programme Timeline'
+      subtitle: ''
+      text: |-
+        - **2025**: The Machine Psychology programme begins in Mashhad, with the first behavioural protocols for probing frontier language models.
+        - **February 2026**: The flagship study, *Identity-Reactive Conversational Behaviors in Large Language Models*, is submitted to *AI and Ethics*.
+        - **October 2026**: The flagship returns from major revision and is resubmitted; *Algorithmic Gaslighting* is submitted to the CALE-AI workshop at AAAI-27.
+        - **4 November 2026**: The corpus is complete: all fifteen manuscripts under review, with open materials for every study.
+        - **5 November 2026**: Three further preprints are posted on Research Square, bringing the public count to fourteen of fifteen.
+        - **6 November 2026**: *Three Profiles of Artificial Will* is posted on Zenodo. All fifteen works now have public preprints, and all fifteen are under review.
+    design:
+      columns: '1'
+      spacing:
+        padding: ['3rem', '0', '0', '0']
+  - block: markdown
+    content:
+      title: 'For Prospective PhD Supervisors'
+      subtitle: ''
+      text: |-
+        I am applying to direct-entry PhD programmes for Fall 2027. Supervisors and committees can read about my research direction, record, and what I am looking for on the [For Prospective Supervisors](/academic-cv/for-supervisors/) page.
+    design:
+      columns: '1'
+      spacing:
+        padding: ['3rem', '0', '0', '0']
   - block: cta-card
     content:
       title: Get in Touch

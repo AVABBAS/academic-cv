@@ -101,4 +101,11 @@ sections:
         </div>
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: "✉️ Rights & Enquiries"
+      text: |
+        For publication, translation, or excerpt enquiries about *And We Will Dance One Day*, please contact the author directly at [abbashamidavi2002@gmail.com](mailto:abbashamidavi2002@gmail.com).
+    design:
+      columns: '1'
 ---

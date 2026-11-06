@@ -20,4 +20,5 @@ links:
     url: "https://github.com/AVABBAS/naming-the-loop"
   - name: Dataset (Hugging Face)
     url: "https://huggingface.co/datasets/avabbas/naming-the-loop"
+featured: true
 ---

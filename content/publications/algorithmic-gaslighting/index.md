@@ -51,6 +51,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+featured: true
 ---
 
 **🎧 Listen to the Podcast:**

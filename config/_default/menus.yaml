@@ -20,6 +20,9 @@ main:
   - name: Projects
     url: projects/
     weight: 30
+  - name: Themes
+    url: themes/
+    weight: 35
   - name: Book
     url: book/
     weight: 40
