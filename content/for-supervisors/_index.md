@@ -19,7 +19,7 @@ sections:
         - Peer-review service for Elsevier's *Information Processing & Management* and *Computers in Human Behavior*
         - A clinical background in nursing, which still shapes how I design, run, and document behavioural studies
 
-        Useful links: my [CV](/academic-cv/uploads/resume.pdf), the full [Publications](/academic-cv/publications/) list, the programme's [Research Themes](/academic-cv/themes/), and its [Open Science](/academic-cv/open-science/) deposits. For enquiries, email [abbashamidavi2002@gmail.com](mailto:abbashamidavi2002@gmail.com).
+        Useful links: my [CV](/academic-cv/uploads/resume.pdf), a [one-page research summary (PDF)](/academic-cv/uploads/research-summary.pdf), the full [Publications](/academic-cv/publications/) list, the programme's [Research Themes](/academic-cv/themes/) and [Methods & Protocols](/academic-cv/protocols/), and its [Open Science](/academic-cv/open-science/) deposits. For enquiries, email [abbashamidavi2002@gmail.com](mailto:abbashamidavi2002@gmail.com).
     design:
       columns: '1'
 ---

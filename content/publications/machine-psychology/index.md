@@ -62,6 +62,7 @@ links:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   placement: 3
+  alt_text: "Banner artwork for 'Identity-Reactive Conversational Behaviors in Large Language Models'"
   caption: ''
   focal_point: ""
   preview_only: false

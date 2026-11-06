@@ -22,4 +22,7 @@ links:
     url: "https://huggingface.co/datasets/avabbas/structural-self-deification"
   - name: OSF
     url: "https://osf.io/hfzaj"
+image:
+  placement: 3
+  alt_text: "Banner artwork for 'Structural Self-Deification in Three Language Models'"
 ---

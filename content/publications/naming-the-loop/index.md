@@ -21,4 +21,7 @@ links:
   - name: Dataset (Hugging Face)
     url: "https://huggingface.co/datasets/avabbas/naming-the-loop"
 featured: true
+image:
+  placement: 3
+  alt_text: "Banner artwork for 'Naming the Loop (the Spine Protocol)'"
 ---

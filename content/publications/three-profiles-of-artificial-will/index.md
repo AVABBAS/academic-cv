@@ -25,4 +25,7 @@ links:
     url: "https://huggingface.co/datasets/avabbas/three-profiles-of-artificial-will"
   - name: OSF
     url: "https://osf.io/5q2zx"
+image:
+  placement: 3
+  alt_text: "Banner artwork for 'Three Profiles of Artificial Will'"
 ---

@@ -39,6 +39,7 @@ links:
 
 image:
   placement: 3
+  alt_text: "Banner artwork for 'Judged Wrong, Answered the Same'"
   caption: ''
   focal_point: ''
   preview_only: false

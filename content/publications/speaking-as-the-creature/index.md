@@ -22,4 +22,7 @@ links:
     url: "https://github.com/AVABBAS/speaking-as-the-creature"
   - name: Dataset (Hugging Face)
     url: "https://huggingface.co/datasets/avabbas/speaking-as-the-creature"
+image:
+  placement: 3
+  alt_text: "Banner artwork for 'Speaking as the Creature'"
 ---

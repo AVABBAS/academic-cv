@@ -166,6 +166,26 @@ sections:
       columns: '1'
       spacing:
         padding: ['3rem', '0', '0', '0']
+  - block: markdown
+    content:
+      title: 'Questions & Answers'
+      subtitle: ''
+      text: |-
+        **What is Machine Psychology?** The empirical study of large language models with the tools of psychology: controlled behavioural experiments rather than static benchmarks.
+
+        **Are the papers published?** All fifteen manuscripts are under review at international journals and one workshop. Every one of them is public as a preprint with a DOI.
+
+        **Are the data and code really open?** Yes. Transcripts, protocols, codebooks, and analysis code for all fifteen studies are deposited on GitHub, Hugging Face, and the Open Science Framework under CC BY 4.0. See the [Open Science](/academic-cv/open-science/) page.
+
+        **Is the author looking for a PhD position?** Yes, direct entry for Fall 2027. Supervisors and committees can start at the [For Prospective Supervisors](/academic-cv/for-supervisors/) page.
+
+        **Who is Mahsa Borhani?** A psychology undergraduate at Islamic Azad University, Mashhad, and co-author of three studies in the programme.
+
+        **How do I cite this work?** Each publication page carries the full citation details, and the repositories include citation files (CITATION.cff and BibTeX).
+    design:
+      columns: '1'
+      spacing:
+        padding: ['3rem', '0', '0', '0']
   - block: cta-card
     content:
       title: Get in Touch

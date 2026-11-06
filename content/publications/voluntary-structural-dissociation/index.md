@@ -35,6 +35,9 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+image:
+  placement: 3
+  alt_text: "Banner artwork for 'Differential Compliance With Framed Secondary Instructions'"
 ---
 
 **🎧 Listen to the Podcast:**

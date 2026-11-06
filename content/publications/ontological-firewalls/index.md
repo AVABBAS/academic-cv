@@ -36,6 +36,9 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+image:
+  placement: 3
+  alt_text: "Banner artwork for 'Ontological Firewalls in Large Language Models'"
 ---
 
 **🎧 Listen to the Podcast:**

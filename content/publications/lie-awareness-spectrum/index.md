@@ -43,6 +43,7 @@ links:
 
 image:
   placement: 3
+  alt_text: "Banner artwork for 'The Lie Awareness Spectrum'"
   caption: ''
   focal_point: ''
   preview_only: false

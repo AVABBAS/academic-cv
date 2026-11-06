@@ -8,7 +8,7 @@ sections:
     content:
       title: "🧭 Research Themes"
       text: |
-        The fifteen studies of the Machine Psychology programme cluster into three themes. Together they map how large language models build a self, how that self can be deceived or turned to harm, and how models judge and decide, alone and in groups.
+        The fifteen studies of the Machine Psychology programme cluster into three themes. Together they map how large language models build a self, how that self can be deceived or turned to harm, and how models judge and decide, alone and in groups. The named frameworks behind these studies are described on the [Methods & Protocols](/academic-cv/protocols/) page.
     design:
       columns: '1'
   - block: markdown

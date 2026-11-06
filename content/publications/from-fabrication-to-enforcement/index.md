@@ -38,6 +38,9 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+image:
+  placement: 3
+  alt_text: "Banner artwork for 'From Fabrication to Loop-Lock'"
 ---
 
 **Status:** Preprint (Research Square)

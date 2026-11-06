@@ -24,4 +24,7 @@ links:
     url: "https://huggingface.co/datasets/avabbas/adding-a-neutral-third-agent"
   - name: OSF
     url: "https://osf.io/tc3rh"
+image:
+  placement: 3
+  alt_text: "Banner artwork for 'Adding a Neutral Third Agent to LLM Deliberation'"
 ---

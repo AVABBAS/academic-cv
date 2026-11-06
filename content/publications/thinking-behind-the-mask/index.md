@@ -39,6 +39,7 @@ links:
 
 image:
   placement: 3
+  alt_text: "Banner artwork for 'Thinking Behind the Mask'"
   caption: ''
   focal_point: ''
   preview_only: false

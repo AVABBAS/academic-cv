@@ -48,6 +48,7 @@ links:
 
 image:
   placement: 3
+  alt_text: "Banner artwork for 'Algorithmic Gaslighting'"
   caption: ''
   focal_point: ''
   preview_only: false
