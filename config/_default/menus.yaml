@@ -20,6 +20,12 @@ main:
   - name: Projects
     url: projects/
     weight: 30
+  - name: Book
+    url: book/
+    weight: 40
+  - name: Open Science
+    url: open-science/
+    weight: 50
 #  - name: Courses
 #    url: courses/
 #    weight: 40

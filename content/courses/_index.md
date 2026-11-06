@@ -1,9 +1,19 @@
 ---
-title: "Things I've Learned"
-summary: "Quotes from my book — personal reflections on pain, resilience, and becoming."
+title: "And We Will Dance One Day"
+summary: "Abbas Hamidavi's memoir: a childhood marked by divorce, war, and his father's abandonment, and the long road back. Written in Persian, translated into English, and currently under submission to publishers."
 type: landing
+url: /book/
 
 sections:
+  - block: markdown
+    content:
+      title: "📖 About the Book"
+      text: |
+        *And We Will Dance One Day* is a memoir of about 80,000 words. It recounts a childhood shaped by his parents' divorce, the years of domestic violence that followed, his father's return to Iraq and the choice between his two families, and his mother's endurance through all of it, and it follows the long road through loss, love, and recovery.
+
+        The book was written in Persian and translated into English. It is currently under submission to publishers and literary magazines.
+    design:
+      columns: '1'
   - block: markdown
     content:
       title: "📖 Quotes from My Book"

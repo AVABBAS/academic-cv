@@ -70,6 +70,22 @@ sections:
       background:
         color: '#0a1f44'
         text_color_light: true
+  - block: markdown
+    content:
+      title: 'The Programme in Numbers'
+      subtitle: ''
+      text: |-
+        <div style="display: flex; flex-wrap: wrap; gap: 2.5rem; justify-content: center; text-align: center;">
+        <div><div style="font-size: 2.2rem; font-weight: 700;">15</div><div>manuscripts under review</div></div>
+        <div><div style="font-size: 2.2rem; font-weight: 700;">15</div><div>open preprints with DOIs</div></div>
+        <div><div style="font-size: 2.2rem; font-weight: 700;">15</div><div>public datasets</div></div>
+        <div><div style="font-size: 2.2rem; font-weight: 700;">6</div><div>frontier model families probed</div></div>
+        <div><div style="font-size: 2.2rem; font-weight: 700;">4</div><div>Hugging Face collections</div></div>
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['3rem', '0', '3rem', '0']
   - block: collection
     id: papers
     content:
@@ -113,4 +129,16 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: cta-card
+    content:
+      title: Get in Touch
+      text: |-
+        I welcome enquiries about PhD supervision, research collaboration, and the Machine Psychology programme.
+      button:
+        text: Email Me
+        url: mailto:abbashamidavi2002@gmail.com
+    design:
+      card:
+        css_class: 'bg-gradient-to-br from-primary-500 via-primary-600 to-secondary-600 text-white shadow-2xl'
+        css_style: ''
 ---
