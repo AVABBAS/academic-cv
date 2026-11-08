@@ -20,6 +20,8 @@ links:
     url: "https://github.com/AVABBAS/naming-the-loop"
   - name: Dataset (Hugging Face)
     url: "https://huggingface.co/datasets/avabbas/naming-the-loop"
+  - name: Poster
+    url: "https://avabbas.github.io/academic-cv/posters/naming-the-loop-poster.pdf"
 featured: true
 image:
   placement: 3

@@ -40,6 +40,8 @@ links:
   icon: osf
 - name: Source Document
   url: "https://osf.io/qsvty/overview"
+- name: Poster
+  url: "https://avabbas.github.io/academic-cv/posters/algorithmic-gaslighting-poster.pdf"
 
 
 

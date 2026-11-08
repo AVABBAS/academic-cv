@@ -36,6 +36,8 @@ links:
   url: "https://osf.io/bef52"
 - name: DOI
   url: "https://doi.org/10.21203/rs.3.rs-10463884/v1"
+- name: Poster
+  url: "https://avabbas.github.io/academic-cv/posters/when-ai-reviews-itself-poster.pdf"
 
 image:
   placement: 3

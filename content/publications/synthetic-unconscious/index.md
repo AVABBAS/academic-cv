@@ -23,6 +23,8 @@ links:
     url: "https://github.com/AVABBAS/synthetic-unconscious-llm"
   - name: Dataset (Hugging Face)
     url: "https://huggingface.co/datasets/avabbas/synthetic-unconscious-llm"
+  - name: Poster
+    url: "https://avabbas.github.io/academic-cv/posters/synthetic-unconscious-poster.pdf"
 image:
   placement: 3
   alt_text: "Banner artwork for 'The Synthetic Unconscious, Reconsidered'"

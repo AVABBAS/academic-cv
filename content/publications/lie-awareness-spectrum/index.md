@@ -40,6 +40,8 @@ links:
   url: "http://osf.io/29nc6"
 - name: DOI
   url: "https://doi.org/10.21203/rs.3.rs-10422338/v1"
+- name: Poster
+  url: "https://avabbas.github.io/academic-cv/posters/lie-awareness-spectrum-poster.pdf"
 
 image:
   placement: 3

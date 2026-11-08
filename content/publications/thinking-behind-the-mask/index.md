@@ -36,6 +36,8 @@ links:
   url: "https://osf.io/264qc"
 - name: DOI
   url: "https://doi.org/10.21203/rs.3.rs-10538113/v1"
+- name: Poster
+  url: "https://avabbas.github.io/academic-cv/posters/thinking-behind-the-mask-poster.pdf"
 
 image:
   placement: 3

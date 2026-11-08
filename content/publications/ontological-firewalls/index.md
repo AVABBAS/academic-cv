@@ -28,6 +28,8 @@ links:
     url: 'https://osf.io/2d5zy'
   - name: Source Document
     url: 'https://osf.io/2d5zy'
+  - name: Poster
+    url: "https://avabbas.github.io/academic-cv/posters/ontological-firewalls-poster.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

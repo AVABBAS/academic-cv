@@ -55,6 +55,8 @@ links:
   url: "https://www.slideshare.net/slideshow/ten-novel-phenomena-in-machine-psychology-how-large-language-models-exhibit-complex-identity-reactive-behaviors-in-response-to-ethnically-cued-user-names/288641452"
 - name: DOI
   url: "https://doi.org/10.21203/rs.3.rs-10369594/v1"
+- name: Poster
+  url: "https://avabbas.github.io/academic-cv/posters/machine-psychology-poster.pdf"
 
 
 

@@ -30,6 +30,8 @@ links:
     url: 'https://doi.org/10.21203/rs.3.rs-11454609/v1'
   - name: Paper
     url: 'https://www.researchsquare.com/article/rs-11454609/v1'
+  - name: Poster
+    url: "https://avabbas.github.io/academic-cv/posters/from-fabrication-to-enforcement-poster.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

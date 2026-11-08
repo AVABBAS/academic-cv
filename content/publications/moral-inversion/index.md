@@ -29,6 +29,8 @@ links:
     url: 'https://doi.org/10.21203/rs.3.rs-11498569/v1'
   - name: Paper
     url: 'https://www.researchsquare.com/article/rs-11498569/v1'
+  - name: Poster
+    url: "https://avabbas.github.io/academic-cv/posters/moral-inversion-poster.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

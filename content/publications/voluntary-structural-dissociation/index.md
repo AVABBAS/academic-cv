@@ -27,6 +27,8 @@ links:
     url: 'https://osf.io/g9w3e'
   - name: Source Document
     url: 'https://osf.io/g9w3e'
+  - name: Poster
+    url: "https://avabbas.github.io/academic-cv/posters/voluntary-structural-dissociation-poster.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
