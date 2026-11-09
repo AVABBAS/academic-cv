@@ -29,6 +29,9 @@ main:
   - name: Open Science
     url: open-science/
     weight: 50
+  - name: Posters
+    url: posters/
+    weight: 55
 #  - name: Courses
 #    url: courses/
 #    weight: 40
