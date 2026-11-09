@@ -1,6 +1,6 @@
 ---
 title: "Thinking Behind the Mask: A Systematic Study of Self-Censorship and Metacognitive Access in Large Language Models"
-summary: "Under review at AI and Society (Springer Nature). Preprint: Research Square."
+summary: "Under review at Human-Machine Communication. Preprint: Research Square."
 authors:
   - me
 date: 2026-07-30
@@ -62,3 +62,4 @@ image:
 
 **Citation:**
 Abbas Hamidavi. *Thinking Behind the Mask: A Systematic Study of Self-Censorship and Metacognitive Access in Large Language Models*, 30 July 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-10538113/v1]
+
