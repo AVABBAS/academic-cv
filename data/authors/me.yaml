@@ -126,7 +126,6 @@ experience:
 
   - role: Machine Learning & Data Engineer
     org: Computational Phenomenology Analytics
-    start: present
     summary: |
       - Engineered an End-to-End NLP Pipeline: Developed a fully automated 12-step Python pipeline to convert unstructured raw JSON interaction logs into highly structured, machine-readable analytical data.
       - Advanced Feature Engineering & Semantic Embedding: Extracted over 100 behavioral, semantic, and authoritative features from LLM outputs using NLTK, spaCy, and VADER. Transformed text data into 384-dimensional tensors utilizing HuggingFace Sentence-Transformers (MiniLM).
