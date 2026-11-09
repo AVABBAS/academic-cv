@@ -29,6 +29,9 @@ main:
   - name: Book
     url: book/
     weight: 40
+  - name: Notes
+    url: notes/
+    weight: 45
   - name: Open Science
     url: open-science/
     weight: 50
