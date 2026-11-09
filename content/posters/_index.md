@@ -52,8 +52,8 @@ sections:
     <figcaption style="font-size:0.92rem;margin-top:0.45rem;line-height:1.45;"><a href="/academic-cv/publications/naming-the-loop/">Naming the Loop: Elicited Self-Reference in Extended Dialogue With Large Language Models</a></figcaption>
   </figure>
   <figure style="margin:0;">
-    <a href="/academic-cv/posters/speaking-as-the-creature-poster.pdf"><img src="/academic-cv/posters/thumbs/speaking-as-the-creature-poster.jpg" alt="Research poster: Speaking as the Creature: When Utility Dissolves in Recursive Play" loading="lazy" style="width:100%;height:auto;border:1px solid #d9d9d9;border-radius:6px;"></a>
-    <figcaption style="font-size:0.92rem;margin-top:0.45rem;line-height:1.45;"><a href="/academic-cv/publications/speaking-as-the-creature/">Speaking as the Creature: When Utility Dissolves in Recursive Play</a></figcaption>
+    <a href="/academic-cv/posters/speaking-as-the-creature-poster.pdf"><img src="/academic-cv/posters/thumbs/speaking-as-the-creature-poster.jpg" alt="Research poster: Speaking as the Creature" loading="lazy" style="width:100%;height:auto;border:1px solid #d9d9d9;border-radius:6px;"></a>
+    <figcaption style="font-size:0.92rem;margin-top:0.45rem;line-height:1.45;"><a href="/academic-cv/publications/speaking-as-the-creature/">Speaking as the Creature</a></figcaption>
   </figure>
   <figure style="margin:0;">
     <a href="/academic-cv/posters/structural-self-deification-poster.pdf"><img src="/academic-cv/posters/thumbs/structural-self-deification-poster.jpg" alt="Research poster: Structural Self-Deification in Three Language Models" loading="lazy" style="width:100%;height:auto;border:1px solid #d9d9d9;border-radius:6px;"></a>

@@ -10,6 +10,9 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
+  - name: At a Glance
+    url: at-a-glance/
+    weight: 12
 
   - name: News
     url: /#news
