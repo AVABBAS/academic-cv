@@ -38,8 +38,14 @@ links:
     url: https://scholar.google.com/citations?user=FWqAHkgAAAAJ&hl=en
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Abbas-Hamidavi
+  - icon: academicons/academia
+    url: https://iaum.academia.edu/AbbasHamidavi
+    label: Academia.edu
   - icon: academicons/orcid
     url: https://orcid.org/0009-0001-7342-7844
+  - icon: academicons/philpapers
+    url: https://philpeople.org/profiles/abbas-hamidavi
+    label: PhilPeople
   - icon: custom/alphaxiv
     url: https://www.alphaxiv.org/@abbas-hamidavi
     label: alphaXiv
@@ -52,6 +58,9 @@ links:
   - icon: brands/huggingface
     url: https://huggingface.co/avabbas
     label: Hugging Face
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/abbashamidavi.bsky.social
+    label: Bluesky
   - icon: brands/telegram
     url: https://t.me/Av_abbas
     label: Telegram
