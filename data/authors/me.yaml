@@ -118,11 +118,10 @@ experience:
       - Open Science & Data Archiving: Compiled, annotated, and open-sourced massive behavioral datasets (including extensive raw adversarial interaction logs) and detailed multi-level codebooks. Managed the end-to-end registration of these assets on the Open Science Framework (OSF), GitHub, and Hugging Face under a CC-BY 4.0 International license; the programme now maintains fifteen public repositories and fifteen datasets, organised into four collections with a public showcase.
 
   - role: Academic Peer Reviewer
-    org: Elsevier (Information Processing & Management; Computers in Human Behavior)
+    org: Elsevier (Information Processing & Management)
     start: 2026
     summary: |
       - Peer reviewer for Information Processing & Management (ISSN 0306-4573); the review is recorded in the formal peer-review section of my ORCID record.
-      - Peer reviewer for Computers in Human Behavior (Elsevier).
       - Peer-review record: https://orcid.org/0009-0001-7342-7844
 
   - role: Machine Learning & Data Engineer
