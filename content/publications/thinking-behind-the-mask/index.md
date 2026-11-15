@@ -1,6 +1,6 @@
 ---
 title: "Thinking Behind the Mask: A Systematic Study of Self-Censorship and Metacognitive Access in Large Language Models"
-summary: "Under review at Human-Machine Communication. Preprint: Research Square."
+summary: "Under review at Information, Communication & Society (Taylor & Francis). Preprint: Research Square."
 authors:
   - me
 date: 2026-07-30

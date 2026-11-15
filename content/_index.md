@@ -148,7 +148,7 @@ sections:
       text: |-
         - **2025**: The Machine Psychology programme begins in Mashhad, with the first behavioural protocols for probing frontier language models.
         - **February 2026**: The flagship study, *Identity-Reactive Conversational Behaviors in Large Language Models*, is submitted to *AI and Ethics*.
-        - **October 2026**: The flagship returns from major revision and is resubmitted; *Algorithmic Gaslighting* is submitted to the CALE-AI workshop at AAAI-27.
+        - **November 2026**: The flagship major revision is resubmitted to *AI and Ethics*; *Algorithmic Gaslighting* awaits its CALE-AI workshop decision, due 2 December 2026.
         - **4 November 2026**: The corpus is complete: all fifteen manuscripts under review, with open materials for every study.
         - **5 November 2026**: Three further preprints are posted on Research Square, bringing the public count to fourteen of fifteen.
         - **6 November 2026**: *Three Profiles of Artificial Will* is posted on Zenodo. All fifteen works now have public preprints, and all fifteen are under review.
